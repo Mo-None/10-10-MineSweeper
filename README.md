@@ -1,19 +1,23 @@
 ## MineSweeper
 
-这是一个10*10扫雷项目训练，编程软件使用的是Clion 2025。
 
-# 完成需求
-1.实现初始化10*10的地图和10颗雷的布局
-2.实现左键开格，右键标注的功能（右键按一次标注，按两次出问号，三次取消）
-3.实现白格连锁
-4.胜利+失败检验（附弹窗），重来按钮
+This is a 10*10 mine clearance project training with Clion 2025 programming software.
 
-# 未完成需求
-1.单程序一键式无终端启动
-2.多种难度调节
-3.统计功能的实现
 
-# 不满意之处
-1.检索方适用遍历
-2.雷的生成随机，无规则限制
-3.结束无全地图显示
+# Complete the requirements
+1. Implement the initialization of a 10*10 map and a layout of 10 mines
+2. Realize the function of left-click to open the grid and right-click to annotate (right-click to annotate once, press twice to get a question mark, and cancel three times)
+3. Realize the white grid chain
+4. Victory + Failure Test (with pop-up window), redo button
+
+
+# Unfulfilled requirements
+1. One-click terminalless startup of a single program
+2. Multiple difficulty adjustments
+3. Implementation of statistical function
+
+
+# Dissatisfaction
+1. Traversal is applied to the searcher
+2. The generation of thunder is random, and there are no rules or restrictions
+3. The end is not full map display
