@@ -1,0 +1,4 @@
+"E:\JetBrains\CLion 2025.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=E:/JetBrains/CLion 2025.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\moyua\CLionProjects\minesweeper -B C:\Users\moyua\CLionProjects\minesweeper\cmake-build-debug
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/moyua/CLionProjects/MineSweeper/cmake-build-debug

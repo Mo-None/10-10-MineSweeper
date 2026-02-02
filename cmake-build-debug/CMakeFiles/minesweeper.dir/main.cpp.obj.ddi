@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\minesweeper.dir\\main.cpp.obj",
+            "outputs": [
+                "C:\\Users\\moyua\\CLionProjects\\MineSweeper\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\minesweeper.dir\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

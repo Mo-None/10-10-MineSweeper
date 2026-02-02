@@ -1,0 +1,27 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/moyua/CLionProjects/MineSweeper/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/moyua/CLionProjects/MineSweeper",
+	"dir-top-bld" : "C:/Users/moyua/CLionProjects/MineSweeper/cmake-build-debug",
+	"dir-top-src" : "C:/Users/moyua/CLionProjects/MineSweeper",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/moyua/CLionProjects/MineSweeper/cmake-build-debug/CMakeFiles/minesweeper.dir",
+	"sources" : 
+	{
+		"CMakeFiles/minesweeper.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/moyua/CLionProjects/MineSweeper/main.cpp"
+		}
+	}
+}
